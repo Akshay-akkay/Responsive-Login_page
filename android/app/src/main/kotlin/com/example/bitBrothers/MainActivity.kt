@@ -1,4 +1,4 @@
-package com.example.bitBrothers
+package com.akkay.sync_app
 
 import io.flutter.embedding.android.FlutterActivity
 
